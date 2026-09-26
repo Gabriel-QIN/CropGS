@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720" viewBox="0 0 1100 720" role="img" aria-labelledby="title desc">
+<title id="title">Wheat: phenotype and environment distribution</title>
+<desc id="desc">Wheat: phenotype and environment distribution</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="28.0" y="30.0" font-family="Arial,sans-serif" font-size="18px" font-weight="600" fill="#172033" text-anchor="start">Wheat: phenotype and environment distribution</text>
+<rect x="70.0" y="80.0" width="980.0" height="220.0" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="560.0" y="334.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle">environment</text>
+<text x="34.0" y="190.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle" transform="rotate(-90 34.0 190.0)">records</text>
+<text x="70.0" y="70.0" font-family="Arial,sans-serif" font-size="13px" font-weight="600" fill="#172033" text-anchor="start">Phenotype records by environment</text>
+<rect x="72.5" y="102.4" width="76.7" height="197.6" fill="#2563eb" opacity="0.82"/>
+<text x="110.8" y="312.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 110.8 312.0)">Loc1_2016</text>
+<rect x="154.2" y="82.0" width="76.7" height="218.0" fill="#2563eb" opacity="0.82"/>
+<text x="192.5" y="312.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 192.5 312.0)">Loc1_2017</text>
+<rect x="235.8" y="245.2" width="76.7" height="54.8" fill="#2563eb" opacity="0.82"/>
+<text x="274.2" y="312.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 274.2 312.0)">Loc2_2014</text>
+<rect x="317.5" y="92.4" width="76.7" height="207.6" fill="#2563eb" opacity="0.82"/>
+<text x="355.8" y="312.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 355.8 312.0)">Loc2_2016</text>
+<rect x="399.2" y="98.3" width="76.7" height="201.7" fill="#2563eb" opacity="0.82"/>
+<text x="437.5" y="312.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 437.5 312.0)">Loc2_2018</text>
+<rect x="480.8" y="245.2" width="76.7" height="54.8" fill="#2563eb" opacity="0.82"/>
+<text x="519.2" y="312.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 519.2 312.0)">Loc3_2014</text>
+<rect x="562.5" y="213.8" width="76.7" height="86.2" fill="#2563eb" opacity="0.82"/>
+<text x="600.8" y="312.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 600.8 312.0)">Loc3_2015</text>
+<rect x="644.2" y="92.4" width="76.7" height="207.6" fill="#2563eb" opacity="0.82"/>
+<text x="682.5" y="312.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 682.5 312.0)">Loc3_2016</text>
+<rect x="725.8" y="98.3" width="76.7" height="201.7" fill="#2563eb" opacity="0.82"/>
+<text x="764.2" y="312.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 764.2 312.0)">Loc3_2018</text>
+<rect x="807.5" y="245.2" width="76.7" height="54.8" fill="#2563eb" opacity="0.82"/>
+<text x="845.8" y="312.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 845.8 312.0)">Loc4_2014</text>
+<rect x="889.2" y="96.1" width="76.7" height="203.9" fill="#2563eb" opacity="0.82"/>
+<text x="927.5" y="312.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 927.5 312.0)">Loc4_2016</text>
+<rect x="970.8" y="98.3" width="76.7" height="201.7" fill="#2563eb" opacity="0.82"/>
+<text x="1009.2" y="312.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 1009.2 312.0)">Loc4_2018</text>
+<text x="70.0" y="78.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="start">0</text>
+<text x="70.0" y="90.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="start">max 589</text>
+<rect x="70.0" y="390.0" width="450.0" height="220.0" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="295.0" y="644.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle">environment</text>
+<text x="34.0" y="500.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle" transform="rotate(-90 34.0 500.0)">samples</text>
+<text x="70.0" y="380.0" font-family="Arial,sans-serif" font-size="13px" font-weight="600" fill="#172033" text-anchor="start">Genotype/sample environment coverage</text>
+<rect x="72.5" y="392.0" width="70.0" height="218.0" fill="#059669" opacity="0.82"/>
+<text x="107.5" y="622.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 107.5 622.0)">1</text>
+<rect x="147.5" y="403.8" width="70.0" height="206.2" fill="#059669" opacity="0.82"/>
+<text x="182.5" y="622.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 182.5 622.0)">3</text>
+<rect x="222.5" y="446.9" width="70.0" height="163.1" fill="#059669" opacity="0.82"/>
+<text x="257.5" y="622.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 257.5 622.0)">4</text>
+<rect x="297.5" y="592.9" width="70.0" height="17.1" fill="#059669" opacity="0.82"/>
+<text x="332.5" y="622.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 332.5 622.0)">5</text>
+<rect x="372.5" y="609.7" width="70.0" height="0.3" fill="#059669" opacity="0.82"/>
+<text x="407.5" y="622.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 407.5 622.0)">7</text>
+<rect x="447.5" y="609.1" width="70.0" height="0.9" fill="#059669" opacity="0.82"/>
+<text x="482.5" y="622.0" font-family="Arial,sans-serif" font-size="9px" font-weight="400" fill="#475569" text-anchor="end" transform="rotate(-45 482.5 622.0)">8</text>
+<text x="70.0" y="388.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="start">0</text>
+<text x="70.0" y="400.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="start">max 703</text>
+<rect x="600.0" y="390.0" width="450.0" height="220.0" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="825.0" y="644.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle">trait median</text>
+<text x="564.0" y="500.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle" transform="rotate(-90 564.0 500.0)">count</text>
+<text x="600.0" y="380.0" font-family="Arial,sans-serif" font-size="13px" font-weight="600" fill="#172033" text-anchor="start">Per-environment Trait_1 medians</text>
+<rect x="601.0" y="537.3" width="20.5" height="72.7" fill="#dc2626" opacity="0.82"/>
+<rect x="623.5" y="537.3" width="20.5" height="72.7" fill="#dc2626" opacity="0.82"/>
+<rect x="646.0" y="610.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="668.5" y="610.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="691.0" y="537.3" width="20.5" height="72.7" fill="#dc2626" opacity="0.82"/>
+<rect x="713.5" y="610.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="736.0" y="610.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="758.5" y="537.3" width="20.5" height="72.7" fill="#dc2626" opacity="0.82"/>
+<rect x="781.0" y="537.3" width="20.5" height="72.7" fill="#dc2626" opacity="0.82"/>
+<rect x="803.5" y="537.3" width="20.5" height="72.7" fill="#dc2626" opacity="0.82"/>
+<rect x="826.0" y="537.3" width="20.5" height="72.7" fill="#dc2626" opacity="0.82"/>
+<rect x="848.5" y="610.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="871.0" y="610.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="893.5" y="537.3" width="20.5" height="72.7" fill="#dc2626" opacity="0.82"/>
+<rect x="916.0" y="537.3" width="20.5" height="72.7" fill="#dc2626" opacity="0.82"/>
+<rect x="938.5" y="610.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="961.0" y="610.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="983.5" y="610.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="1006.0" y="610.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="1028.5" y="392.0" width="20.5" height="218.0" fill="#dc2626" opacity="0.82"/>
+<text x="600.0" y="626.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="start">33.3</text>
+<text x="1050.0" y="626.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="end">47.7</text>
+</svg>

@@ -1,0 +1,48 @@
+{
+  "selection_basis": "development-only strict CV; Diagnostic Holdout locked",
+  "minimum_validation_rows": 100,
+  "competition_score": "(Pearson + Spearman) / 2",
+  "models": {
+    "Maize/Trait_1": {
+      "model": "maize_weather_ood_gate",
+      "base_model": "reaction_norm_gblup",
+      "ood_fallback_model": "distributional_gblup",
+      "residual_ratio": 0.2,
+      "environment_kernel": "linear_weather_pca",
+      "gate": {
+        "distance": "nearest training environment in fold-local weather PCA",
+        "support_threshold": "q90 of training-environment nearest-neighbor distances",
+        "strength": 4.0,
+        "phenotype_blind": true
+      },
+      "robust_score": 0.4897
+    },
+    "Rice/Trait_1": {
+      "model": "equal_multiscale_rkhs",
+      "members": [
+        {"rbf_bandwidth_multiplier": 0.5, "residual_ratio": 0.2},
+        {"rbf_bandwidth_multiplier": 1.0, "residual_ratio": 0.2}
+      ],
+      "weights": [0.5, 0.5],
+      "robust_score": 0.5178
+    },
+    "Wheat/Trait_1": {
+      "model": "rkhs",
+      "rbf_bandwidth_multiplier": 1.0,
+      "residual_ratio": 0.2,
+      "robust_score": 0.5425
+    },
+    "Soybean/Trait_1": {
+      "model": "rkhs",
+      "rbf_bandwidth_multiplier": 1.0,
+      "residual_ratio": 0.2,
+      "robust_score": 0.7804
+    },
+    "Soybean/Trait_2": {
+      "model": "rkhs",
+      "rbf_bandwidth_multiplier": 1.0,
+      "residual_ratio": 0.2,
+      "robust_score": 0.8602
+    }
+  }
+}

@@ -1,0 +1,38 @@
+# Released competition data are not redistributed.
+Dataset/
+
+# Generated genotype matrices and inference caches.
+data/interim/genotype_cache/
+data/interim/inference_genotype_cache/
+*.npy
+*.npz
+
+# Large generated benchmark outputs; retain only the compact leaderboard.
+results/**
+!results/model_leaderboard.csv
+
+# Python/runtime files.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Editors and operating systems.
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Local logs and secrets.
+*.log
+.env
+.env.*
+!.env.example
+
+# Local handoff/context notes that are not part of the public project.
+DATA_MODEL_CONTEXT_FOR_GPT6.md

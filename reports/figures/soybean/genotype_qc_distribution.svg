@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720" viewBox="0 0 1100 720" role="img" aria-labelledby="title desc">
+<title id="title">Soybean: genotype quality distributions</title>
+<desc id="desc">Soybean: genotype quality distributions</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="28.0" y="30.0" font-family="Arial,sans-serif" font-size="18px" font-weight="600" fill="#172033" text-anchor="start">Soybean: genotype quality distributions</text>
+<rect x="70.0" y="80.0" width="450.0" height="240.0" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="295.0" y="354.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle">MAF</text>
+<text x="34.0" y="200.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle" transform="rotate(-90 34.0 200.0)">count</text>
+<text x="70.0" y="70.0" font-family="Arial,sans-serif" font-size="13px" font-weight="600" fill="#172033" text-anchor="start">Marker MAF</text>
+<rect x="71.0" y="82.0" width="20.5" height="238.0" fill="#2563eb" opacity="0.82"/>
+<rect x="93.5" y="233.7" width="20.5" height="86.3" fill="#2563eb" opacity="0.82"/>
+<rect x="116.0" y="221.1" width="20.5" height="98.9" fill="#2563eb" opacity="0.82"/>
+<rect x="138.5" y="224.4" width="20.5" height="95.6" fill="#2563eb" opacity="0.82"/>
+<rect x="161.0" y="219.7" width="20.5" height="100.3" fill="#2563eb" opacity="0.82"/>
+<rect x="183.5" y="213.8" width="20.5" height="106.2" fill="#2563eb" opacity="0.82"/>
+<rect x="206.0" y="215.6" width="20.5" height="104.4" fill="#2563eb" opacity="0.82"/>
+<rect x="228.5" y="207.6" width="20.5" height="112.4" fill="#2563eb" opacity="0.82"/>
+<rect x="251.0" y="216.1" width="20.5" height="103.9" fill="#2563eb" opacity="0.82"/>
+<rect x="273.5" y="234.1" width="20.5" height="85.9" fill="#2563eb" opacity="0.82"/>
+<rect x="296.0" y="236.8" width="20.5" height="83.2" fill="#2563eb" opacity="0.82"/>
+<rect x="318.5" y="235.1" width="20.5" height="84.9" fill="#2563eb" opacity="0.82"/>
+<rect x="341.0" y="245.0" width="20.5" height="75.0" fill="#2563eb" opacity="0.82"/>
+<rect x="363.5" y="246.0" width="20.5" height="74.0" fill="#2563eb" opacity="0.82"/>
+<rect x="386.0" y="244.1" width="20.5" height="75.9" fill="#2563eb" opacity="0.82"/>
+<rect x="408.5" y="238.7" width="20.5" height="81.3" fill="#2563eb" opacity="0.82"/>
+<rect x="431.0" y="246.0" width="20.5" height="74.0" fill="#2563eb" opacity="0.82"/>
+<rect x="453.5" y="244.5" width="20.5" height="75.5" fill="#2563eb" opacity="0.82"/>
+<rect x="476.0" y="245.5" width="20.5" height="74.5" fill="#2563eb" opacity="0.82"/>
+<rect x="498.5" y="246.0" width="20.5" height="74.0" fill="#2563eb" opacity="0.82"/>
+<text x="70.0" y="336.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="start">0</text>
+<text x="520.0" y="336.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="end">0.5</text>
+<rect x="600.0" y="80.0" width="450.0" height="240.0" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="825.0" y="354.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle">missing rate</text>
+<text x="564.0" y="200.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle" transform="rotate(-90 564.0 200.0)">count</text>
+<text x="600.0" y="70.0" font-family="Arial,sans-serif" font-size="13px" font-weight="600" fill="#172033" text-anchor="start">Marker missingness</text>
+<rect x="601.0" y="82.0" width="20.5" height="238.0" fill="#dc2626" opacity="0.82"/>
+<rect x="623.5" y="320.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="646.0" y="319.9" width="20.5" height="0.1" fill="#dc2626" opacity="0.82"/>
+<rect x="668.5" y="320.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="691.0" y="320.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="713.5" y="320.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="736.0" y="320.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="758.5" y="319.9" width="20.5" height="0.1" fill="#dc2626" opacity="0.82"/>
+<rect x="781.0" y="320.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="803.5" y="320.0" width="20.5" height="0.0" fill="#dc2626" opacity="0.82"/>
+<rect x="826.0" y="319.9" width="20.5" height="0.1" fill="#dc2626" opacity="0.82"/>
+<rect x="848.5" y="319.9" width="20.5" height="0.1" fill="#dc2626" opacity="0.82"/>
+<rect x="871.0" y="319.9" width="20.5" height="0.1" fill="#dc2626" opacity="0.82"/>
+<rect x="893.5" y="319.9" width="20.5" height="0.1" fill="#dc2626" opacity="0.82"/>
+<rect x="916.0" y="319.9" width="20.5" height="0.1" fill="#dc2626" opacity="0.82"/>
+<rect x="938.5" y="319.9" width="20.5" height="0.1" fill="#dc2626" opacity="0.82"/>
+<rect x="961.0" y="319.7" width="20.5" height="0.3" fill="#dc2626" opacity="0.82"/>
+<rect x="983.5" y="319.9" width="20.5" height="0.1" fill="#dc2626" opacity="0.82"/>
+<rect x="1006.0" y="319.6" width="20.5" height="0.4" fill="#dc2626" opacity="0.82"/>
+<rect x="1028.5" y="319.4" width="20.5" height="0.6" fill="#dc2626" opacity="0.82"/>
+<text x="600.0" y="336.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="start">8.62e-05</text>
+<text x="1050.0" y="336.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="end">1</text>
+<rect x="70.0" y="410.0" width="450.0" height="240.0" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="295.0" y="684.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle">missing rate</text>
+<text x="34.0" y="530.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle" transform="rotate(-90 34.0 530.0)">count</text>
+<text x="70.0" y="400.0" font-family="Arial,sans-serif" font-size="13px" font-weight="600" fill="#172033" text-anchor="start">Sample missingness</text>
+<rect x="71.0" y="412.0" width="20.5" height="238.0" fill="#059669" opacity="0.82"/>
+<rect x="93.5" y="649.9" width="20.5" height="0.1" fill="#059669" opacity="0.82"/>
+<rect x="116.0" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="138.5" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="161.0" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="183.5" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="206.0" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="228.5" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="251.0" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="273.5" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="296.0" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="318.5" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="341.0" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="363.5" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="386.0" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="408.5" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="431.0" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="453.5" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="476.0" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<rect x="498.5" y="650.0" width="20.5" height="0.0" fill="#059669" opacity="0.82"/>
+<text x="70.0" y="666.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="start">0.0035</text>
+<text x="520.0" y="666.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="end">1</text>
+<rect x="600.0" y="410.0" width="450.0" height="240.0" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="825.0" y="684.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle">heterozygosity</text>
+<text x="564.0" y="530.0" font-family="Arial,sans-serif" font-size="11px" font-weight="400" fill="#475569" text-anchor="middle" transform="rotate(-90 564.0 530.0)">count</text>
+<text x="600.0" y="400.0" font-family="Arial,sans-serif" font-size="13px" font-weight="600" fill="#172033" text-anchor="start">Marker heterozygosity</text>
+<rect x="601.0" y="412.0" width="20.5" height="238.0" fill="#d97706" opacity="0.82"/>
+<rect x="623.5" y="648.7" width="20.5" height="1.3" fill="#d97706" opacity="0.82"/>
+<rect x="646.0" y="649.8" width="20.5" height="0.2" fill="#d97706" opacity="0.82"/>
+<rect x="668.5" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="691.0" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="713.5" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="736.0" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="758.5" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="781.0" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="803.5" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="826.0" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="848.5" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="871.0" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="893.5" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="916.0" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="938.5" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="961.0" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="983.5" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="1006.0" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<rect x="1028.5" y="650.0" width="20.5" height="0.0" fill="#d97706" opacity="0.82"/>
+<text x="600.0" y="666.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="start">0</text>
+<text x="1050.0" y="666.0" font-family="Arial,sans-serif" font-size="10px" font-weight="400" fill="#64748b" text-anchor="end">0.0128</text>
+</svg>

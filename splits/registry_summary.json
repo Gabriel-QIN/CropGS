@@ -1,0 +1,26 @@
+[
+  {
+    "crop": "Maize",
+    "n": 7576,
+    "chosen_k": 12,
+    "registry_hash": "c881177d74ca301b2eea8a319bc5a3f202068605642ef58b8111bdb99e1fae90"
+  },
+  {
+    "crop": "Rice",
+    "n": 4444,
+    "chosen_k": 8,
+    "registry_hash": "0aeee81157266d1a87e9d2f55e6f1f824a0fd248378f64aecf27fe8bfd2c7a47"
+  },
+  {
+    "crop": "Wheat",
+    "n": 3534,
+    "chosen_k": 8,
+    "registry_hash": "6e4e32f157adb7d9b80d334c217b31543ecbc881adea72062fbf86b8b98ebc89"
+  },
+  {
+    "crop": "Soybean",
+    "n": 8166,
+    "chosen_k": 8,
+    "registry_hash": "d7389ed9fee6cc0695974c3c6e25a2377390b65ee4c4b466823dab32a1cb164a"
+  }
+]
